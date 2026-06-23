@@ -12,7 +12,7 @@ B.Tech ECE — MANIT Bhopal
 
 ## Block Diagram
 
-![Block Diagram] (docs/riscv_bd.png)
+![Block Diagram](docs/riscv_bd.png)
 
 ## Modules
 
