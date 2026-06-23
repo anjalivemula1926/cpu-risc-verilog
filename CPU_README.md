@@ -6,9 +6,9 @@ Includes a custom Python assembler that converts assembly language
 to machine code automatically.
 
 ## Author
-Anjali
-B.Tech ECE — MANIT Bhopal
-2024-2028
+Anjali  
+B.Tech ECE — MANIT Bhopal  
+2024-2028  
 
 ## Block Diagram
 
